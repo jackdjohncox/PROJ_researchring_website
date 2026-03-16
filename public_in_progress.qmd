@@ -7,26 +7,21 @@ format:
       theme: neutral
 ---
 
-## Contents
-
--   Short descriptions of ongoing projects
--   Links to preregistrations?
--   Updates for long term projects
-    -   If there is a clear timeline for a long term project we could update when milestones are reached
-
 ## Research Projects
 
-### Project title: "Deaths of Despair among Protective Service Occupations"
+Below you will find brief descriptions of research projects that are in-progress. For each entry, you will find a title, synopsis, status, and links to any additional information available for that project. Please note, we only list projects that the Research Ring is leading or majorly contributing to. We do not track projects team members collaborate on with other groups.
 
 ------------------------------------------------------------------------
 
-::: {style="margin-left: 150px;"}
+### "Deaths of Despair among Protective Service Occupations"
 
-#### Project Synopsis:
+------------------------------------------------------------------------
+
+#### Synopsis:
 
 This project will assess the burden of deaths of despair across major protective service occupations (e.g., police, corrections, fire, EMS/paramedics) using large-scale administrative data.
 
-#### Project Status:
+#### Status:
 
 ```{mermaid}
 flowchart LR
@@ -44,21 +39,18 @@ class B current;
 
 ```
 
-#### Links:
-
-:::
-
-### Project title: "Police Situation Reports: An Experimental Evaluation of Training Methods in Virtual Reality"
 
 ------------------------------------------------------------------------
 
-::: {style="margin-left: 150px;"}
+### "Police Situation Reports: An Experimental Evaluation of Training Methods in Virtual Reality" 
 
-#### Project synopsis:
+------------------------------------------------------------------------
+
+#### Synopsis:
 
 This project will experimentally evaluate different approaches for teaching police situation reports. At ALERRT, we use the LCAN method (Location, Conditions, Actions, and Needs) but there is currently very little experimental evidence for the effectiveness of this (or any other) method. Using a virtual reality situation as a stressor, we will evaluate how different methods of instruction impact participants' ability to deliver an effective situation report.
 
-#### Project Status:
+#### Status:
 
 ```{mermaid}
 flowchart LR
@@ -74,6 +66,86 @@ classDef current fill:#fff3b0,stroke:#b58900,color:#000;
 class A current;
 ```
 
-#### Links:
+------------------------------------------------------------------------
 
-:::
+### "Box breathing and prolonged exhalation reduces markers of physiological stress reactivity in response to a virtual trier social stress test" 
+
+------------------------------------------------------------------------
+
+#### Synopsis:
+
+This randomized controlled trial examined the effects of two brief slow-breathing techniques on physiological and subjective stress responses in a sample of 66 participants exposed to a virtual Trier Social Stress Test (TSST). Compared to a normal breathing control group, both breathing interventions attenuated post-stressor increases in heart rate, state anxiety, and salivary alpha-amylase, indicating a buffering effect on acute sympathetic and psychological stress responses. These findings support the practical utility of ultra-short breathing interventions for stress mitigation, with potential relevance for high-stress occupations such as law enforcement, firefighting, and military service.
+
+#### Status:
+
+```{mermaid}
+flowchart LR
+
+A[/Draft analysis plan/] ~~~ B[/Execute analysis/] 
+B[/Execute analysis/] ~~~ C[/Draft manuscript/]
+C[/Draft manuscript/] ~~~ G[/Submit to journal/]
+G[/Submit to journal/] ~~~ H[/Manuscript accepted/]
+
+classDef done fill:#9be9a8,stroke:#2c7a2c,color:#000;
+classDef current fill:#fff3b0,stroke:#b58900,color:#000;
+
+class A,B,C,D,E,F,G done;
+class H current;
+
+```
+
+------------------------------------------------------------------------
+
+### "Moving Targets: Classification Drift and the Changing Profile of Active Shooter Events in the United States" 
+
+------------------------------------------------------------------------
+
+#### Synopsis:
+
+This project will examine longitudinal trends in active shooter incident resolutions using FBI data spanning 2000–2024, with a particular focus on whether the proportion of incidents ending with the attacker fleeing the scene has increased over time. Findings from this project will have direct implications for law enforcement training and operational preparedness, particularly as a growing share of active shooter responses may involve scene stabilization and suspect search operations rather than direct engagement. 
+
+#### Status:
+
+```{mermaid}
+flowchart LR
+
+A[/Draft analysis plan/] ~~~ B[/Execute analysis/] 
+B[/Execute analysis/] ~~~ C[/Draft manuscript/]
+C[/Draft manuscript/] ~~~ G[/Submit to journal/]
+G[/Submit to journal/] ~~~ H[/Manuscript accepted/]
+
+classDef done fill:#9be9a8,stroke:#2c7a2c,color:#000;
+classDef current fill:#fff3b0,stroke:#b58900,color:#000;
+
+class A,B done;
+class C current;
+
+```
+
+------------------------------------------------------------------------
+
+### "Examining Stress Habituation Across Repeated VR Scenario Exposures" 
+
+------------------------------------------------------------------------
+
+#### Synopsis:
+
+This project will examine the effects of repeated exposure to stressful virtual reality (VR) scenarios on acute physiological stress responses, with the aim of evaluating whether habituation occurs across multiple exposures. Participants will complete three separate scenario days using a VR system, with salivary biomarkers collected at each session to index acute stress reactivity. This study is being conducted in collaboration with the MAP Lab at Texas State University.
+
+#### Status:
+
+```{mermaid}
+flowchart LR
+
+A[/Draft analysis plan/] ~~~ B[/Execute analysis/] 
+B[/Execute analysis/] ~~~ C[/Draft manuscript/]
+C[/Draft manuscript/] ~~~ G[/Submit to journal/]
+G[/Submit to journal/] ~~~ H[/Manuscript accepted/]
+
+classDef done fill:#9be9a8,stroke:#2c7a2c,color:#000;
+classDef current fill:#fff3b0,stroke:#b58900,color:#000;
+
+class A done;
+class B current;
+
+```

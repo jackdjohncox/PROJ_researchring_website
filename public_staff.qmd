@@ -1,14 +1,6 @@
 ---
-title: "Research Staff"
+title: "People"
 ---
-
-## Contents
-
--   Profiles for everyone for potential collaborators and media contacts
-    -   ALERRT Staff
-    -   Collaborators
-    -   Maybe a map showing geographic distribution of collaborators?
--   Contact information
 
 ## Research Ring
 
@@ -16,13 +8,12 @@ title: "Research Staff"
 
 :::::: columns
 ::: {.column width="60%"}
-Hunter
+Hunter Martaindale is the Director of Research at the ALERRT Center. His research focuses on active shooter and threat response, police training evaluation, use of force, and law enforcement and public opinion survey methodology. He holds a doctorate in criminal justice and criminology from Texas State University. His work has been published in scholarly journals including the *Journal of Experimental Criminology*, *Police Quarterly*, and the *Journal of Criminal Justice*.
 
 Fun facts about Hunter:
 
--   He
--   He
--   He
+-   He makes Neapolitan-style pizza at home and has strong unprompted opinions about proper dough hydration levels — in his defense, he calls it "pie," which makes it sound much more sophisticated
+-   He nerds out on microcontrollers and single-board computers in the name of home automation
 :::
 
 ::: {.column width="10%"}
