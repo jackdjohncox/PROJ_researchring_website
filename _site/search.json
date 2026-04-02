@@ -1029,7 +1029,7 @@
     "href": "training_opxr.html",
     "title": "Operator XR Virtual Reality",
     "section": "",
-    "text": "Headset: VIVE Focus 3 (Link)\nWrist Tracker: VIVE Wrist Tracker (Link)\nWands: Controller for VIVE XR/Focus Series (L) (Link)\nController for VIVE XR/Focus Series (R) (Link)\n\n\n\n\n\nEnsure all equipment is charged.\nEnsure you have extra CO2 canisters.\nTurn on router, headsets, instructor tablet, and laptop.\nMAKE SURE they are all on the same WiFi signal from the router.\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nIf you are setting up a NEW play area start here, otherwise, skip to “Preparing Devices”",
+    "text": "Headset: VIVE Focus 3\nWrist Tracker: VIVE Wrist Tracker\nWands:\nController for VIVE XR/Focus Series (L)\nController for VIVE XR/Focus Series (R)",
     "crumbs": [
       "Ring Resources",
       "Training Materials",
@@ -1040,8 +1040,8 @@
     "objectID": "training_opxr.html#pre-setup",
     "href": "training_opxr.html#pre-setup",
     "title": "Operator XR Virtual Reality",
-    "section": "",
-    "text": "Ensure all equipment is charged.\nEnsure you have extra CO2 canisters.\nTurn on router, headsets, instructor tablet, and laptop.\nMAKE SURE they are all on the same WiFi signal from the router.",
+    "section": "Pre-setup",
+    "text": "Pre-setup\n\nEnsure all equipment is charged.\nEnsure you have extra CO2 canisters.\nTurn on router, headsets, instructor tablet, and laptop.\nMAKE SURE they are all on the same WiFi signal from the router.\nAlways have some various colors of masking tape on hand if the room seems very bland, has few recognizable patterns, reflective floors, furniture, wall decor, etc.",
     "crumbs": [
       "Ring Resources",
       "Training Materials",
@@ -1064,8 +1064,32 @@
     "objectID": "training_opxr.html#map-the-play-space",
     "href": "training_opxr.html#map-the-play-space",
     "title": "Operator XR Virtual Reality",
-    "section": "",
-    "text": "Tip\n\n\n\nIf you are setting up a NEW play area start here, otherwise, skip to “Preparing Devices”",
+    "section": "Map the play space",
+    "text": "Map the play space\n\n\n\n\n\n\nTip\n\n\n\nIf you are setting up a NEW play area start here, otherwise, turn everything on and play!\n\n\n\nStep 1: Use the laptop to clear the current tracking map from the headset\n\nOpen VBC on the laptop and connect the headset.\nSelect “Device Settings” and wait for the “Clear Tracking Map” button to be visible. Press it and wait for a success message.\n\n\n\n\n\n\n\nTip\n\n\n\nIt is helpful to have the laptop and headset with you while in the center of the play space BEFORE accepting the success message. It will immediately begin booting up the headset.\n\n\n\nAccept the success message and disconnect the headset. Allow the headset to boot and place you in the lobby. You can remove the headset.\n\n\n\nStep 2: Map the area\n\nRemove the headset and “paint” the room. Slowly walking through your space, let the front of the headset “see” where you are, what’s on the ground, what’s on the walls.\n\n\n\nStep 3: Set the floor height\n\nPut the headset on, navigate to Settings &gt; Boundary &gt; Reset Floor Level &gt; Reset. Follow the steps shown.\n\n\n\nStep 4: Save, export, and import the new map\n\nPower off the headset. Wait a few seconds. Power the headset back on. Plug it back into the laptop.\nIn the laptop VBC program go to device settings and wait for the export button to appear, then select it.\nRename the new map to something applicable.\nFor single-person scenarios, with only one headset being used, you can just jump into scenarios. There is no need to push the map to the headset not being used.\nNow, you can either import the new map to a device group that has been created. Or, you can import the map into the headsets directly.\n\nFor groups: navigate to the group tab, double click your group, and assign your new map with the browse button under map version. Now, make sure your map version numbers all match.\nFor direct upload: navigate to the enroll tab, select your map under import map, and import.",
+    "crumbs": [
+      "Ring Resources",
+      "Training Materials",
+      "Operator XR Virtual Reality"
+    ]
+  },
+  {
+    "objectID": "training_opxr.html#turn-on-devices",
+    "href": "training_opxr.html#turn-on-devices",
+    "title": "Operator XR Virtual Reality",
+    "section": "Turn on devices",
+    "text": "Turn on devices\n\nWrist Trackers\n\n\n\n\n\n\nTip\n\n\n\nMost of the time I have only needed one wrist tracker for what we were doing, you can change what the dominant hand is in the OPXR app.\n\n\nPress the L/R button on top of the tracker. If your wrist trackers were paired last time you used the set, they will remain paired. These also sleep and turn off on their own.\n\n\nEquipment\n\n\n\n\n\n\nTip\n\n\n\nMost of the time I only ever used the pistol, so that was the only item I would need to turn on. In this case, just go to the settings in the OPXR app and turn Launch Requirements &gt; Weapons &gt; OFF.\n\n\nTurn on the equipment you will be using. Between use, I turn these items off to save battery.",
+    "crumbs": [
+      "Ring Resources",
+      "Training Materials",
+      "Operator XR Virtual Reality"
+    ]
+  },
+  {
+    "objectID": "training_opxr.html#opxr-app",
+    "href": "training_opxr.html#opxr-app",
+    "title": "Operator XR Virtual Reality",
+    "section": "OPXR App",
+    "text": "OPXR App\nIn the app settings you will be able to adjust plenty of things. The most important and frequently used are:\n\nThe physical space: I usually leave this alone set at a large number and artificially measure and adjust the space through the “space offset”. The space offset will allow you to shift and rotate your virtual environment to fit your needs.\nLaunch requirements: This is the setting I mentioned earlier in the tip box. Here, I usually kept the start area requirement enabled, but disabled the weapons. This is because I wasn’t using ALL of the equipment available or currently paired to the headset, which, without turning on each item, would block launching scenarios.\n\n\n\n\n\n\n\nTip\n\n\n\nThere is also a menu for setting up player and NPC health points which proved to be useful. I typically would give players infinite HP so that the scene could continue until I wanted it to end, instead of the player “dying”.\n\n\n\nGetting into the headset\nUse your hands as controllers and make an “o.k.” (👌) hand gesture to select the OP-2 app in the VIVE library. The pinch motion with your pointer and thumb is what makes the selection. You should see a black zone with the tablet name (ALERRT) in a white box. Move the cursor with your gaze into the box, and fill it to select the session.\n\n\nPlayer setup\nWhen a headset joins your session you will see their user pop up. They will have a menu available to adjust their player model, equipment, dominant hand, etc. Now, place a wrist tracker onto their dominant hand. I would usually just use one tracker, and adjust hand dominance in the user settings after they joined a session.\n\nCalibrate the pistol to the wrist tracker by using one of the user drop down menus to enable pass-through mode.\nInstruct them to just aim at the wall, keeping the pistol sights aligned and level.\nIn another drop down menu, IF the wrist tracker and gun are on and working with a proper grip, you will be able to select the calibrate button.\nDone. Now turn off pass-through.\n\n\n\nStarting a scenario\nNow, just select a scenario. They are all customizable as well.\n\nInstruct the participant to look around for a colored start area. The scenario description will show you the color and type of start area. They must stand in this box.\nYou have two options: if working with police who have holsters, or people with pockets, tell them to either holster the gun or pocket it. OR, hold onto the pistol for them until the scene starts. After the scene begins, hand them the gun.\n\n\n\n\n\n\n\nImportant\n\n\n\nIf you hold the gun while the scene loads, it will not populate in your hand correctly when the scene begins. If there is an issue immediately after loading with the gun not appearing, just instruct them to re-grip the gun.\n\n\n\nLaunch the scene.\n\n\n\nControlling the scenario\nYou can control NPC actions through a radial menu by selecting characters, this also works for players as well.\nWhen ending the scenario, you will be asked to save the after-action review or not.",
     "crumbs": [
       "Ring Resources",
       "Training Materials",
