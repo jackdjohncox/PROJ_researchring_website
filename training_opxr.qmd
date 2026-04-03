@@ -14,6 +14,12 @@ toc: true
     Controller for VIVE XR/Focus Series (L)\
     Controller for VIVE XR/Focus Series (R)
 
+# Software
+
+The tablet will always ask you to update when powering on, there is no need to.
+
+Any updates available will be handled by OPXR.
+
 # Setup & Start
 
 ## Pre-setup
@@ -122,6 +128,14 @@ You can control NPC actions through a radial menu by selecting characters, this 
 
 When ending the scenario, you will be asked to save the after-action review or not.
 
+# Creating a scenario
+
+The best way to do this is to just play around with it. Look at the characters and props available. Select the items and characters you place, see what menus pop up. Here are some videos available. When finishing a custom scene, make sure you place the scenario cameras in places around the scene you think would be helpful. Most of the time I didn't really need this feature, but you have to place your cameras to save and complete creating a scene. Just hold down anywhere on your map, go to the camera tab, and tap each red camera. When they turn blue, they have been "placed".
+
+{{< video https://www.youtube.com/watch?v=_RoQI-_gBdQ >}}
+
+{{< video https://www.youtube.com/watch?v=zdoGhplpDCM >}}
+
 # FAQ
 
 Most issues were usually solved by just turning the headset, laptop, and equipment off, and launching OPXR again.
@@ -153,11 +167,20 @@ Make sure everything is on the same WiFi signal! Sometimes the WiFi swaps automa
 ::: {.callout-note collapse="true" icon="false"}
 ## Issues with pistol / equipment not connecting
 
-Turn it all off, then on again. If the issue persists, before joining the OPXR warehouse lobby by looking into the session name, turn around and look into the cog wheel to access the equipment. Make sure your equipment is connected or here you can reconnect.
+Turn it all off, then on again. If the issue persists, before joining the OPXR warehouse lobby by looking into the session name, turn around and look into the cog wheel to access the equipment. Make sure your equipment is connected or here you can reconnect.\
+{{< video https://www.youtube.com/watch?v=OYlZzWkWnPI >}}
 :::
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Settings on the laptop aren't populating while headset is connected
 
 Make sure you have "USB" selected in device settings.
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## I want to use the rifle
+
+This video will teach you how to set up users with different equipment systems.
+
+{{< video https://www.youtube.com/watch?v=aIdKWdHzsk0 >}}
 :::

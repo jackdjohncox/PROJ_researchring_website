@@ -1089,11 +1089,71 @@
     "href": "training_opxr.html#opxr-app",
     "title": "Operator XR Virtual Reality",
     "section": "OPXR App",
-    "text": "OPXR App\nIn the app settings you will be able to adjust plenty of things. The most important and frequently used are:\n\nThe physical space: I usually leave this alone set at a large number and artificially measure and adjust the space through the “space offset”. The space offset will allow you to shift and rotate your virtual environment to fit your needs.\nLaunch requirements: This is the setting I mentioned earlier in the tip box. Here, I usually kept the start area requirement enabled, but disabled the weapons. This is because I wasn’t using ALL of the equipment available or currently paired to the headset, which, without turning on each item, would block launching scenarios.\n\n\n\n\n\n\n\nTip\n\n\n\nThere is also a menu for setting up player and NPC health points which proved to be useful. I typically would give players infinite HP so that the scene could continue until I wanted it to end, instead of the player “dying”.\n\n\n\nGetting into the headset\nUse your hands as controllers and make an “o.k.” (👌) hand gesture to select the OP-2 app in the VIVE library. The pinch motion with your pointer and thumb is what makes the selection. You should see a black zone with the tablet name (ALERRT) in a white box. Move the cursor with your gaze into the box, and fill it to select the session.\n\n\nPlayer setup\nWhen a headset joins your session you will see their user pop up. They will have a menu available to adjust their player model, equipment, dominant hand, etc. Now, place a wrist tracker onto their dominant hand. I would usually just use one tracker, and adjust hand dominance in the user settings after they joined a session.\n\nCalibrate the pistol to the wrist tracker by using one of the user drop down menus to enable pass-through mode.\nInstruct them to just aim at the wall, keeping the pistol sights aligned and level.\nIn another drop down menu, IF the wrist tracker and gun are on and working with a proper grip, you will be able to select the calibrate button.\nDone. Now turn off pass-through.\n\n\n\nStarting a scenario\nNow, just select a scenario. They are all customizable as well.\n\nInstruct the participant to look around for a colored start area. The scenario description will show you the color and type of start area. They must stand in this box.\nYou have two options: if working with police who have holsters, or people with pockets, tell them to either holster the gun or pocket it. OR, hold onto the pistol for them until the scene starts. After the scene begins, hand them the gun.\n\n\n\n\n\n\n\nImportant\n\n\n\nIf you hold the gun while the scene loads, it will not populate in your hand correctly when the scene begins. If there is an issue immediately after loading with the gun not appearing, just instruct them to re-grip the gun.\n\n\n\nLaunch the scene.\n\n\n\nControlling the scenario\nYou can control NPC actions through a radial menu by selecting characters, this also works for players as well.\nWhen ending the scenario, you will be asked to save the after-action review or not.",
+    "text": "OPXR App\nIn the app settings you will be able to adjust plenty of things. The most important and frequently used are:\n\nThe physical space: I usually leave this alone set at a large number and artificially measure and adjust the space through the “space offset”. The space offset will allow you to shift and rotate your virtual environment to fit your needs.\nLaunch requirements: This is the setting I mentioned earlier in the tip box. Here, I usually kept the start area requirement enabled, but disabled the weapons. This is because I wasn’t using ALL of the equipment available or currently paired to the headset, which, without turning on each item, would block launching scenarios.\n\n\n\n\n\n\n\nTip\n\n\n\nThere is also a menu for setting up player and NPC health points which proved to be useful. I typically would give players infinite HP so that the scene could continue until I wanted it to end, instead of the player “dying”.\n\n\n\nGetting into the headset\nUse your hands as controllers and make an “o.k.” (👌) hand gesture to select the OP-2 app in the VIVE library. The pinch motion with your pointer and thumb is what makes the selection. You should see a black zone with the tablet name (ALERRT) in a white box. Move the cursor with your gaze into the box, and fill it to select the session.\n\n\nPlayer setup\nWhen a headset joins your session you will see their user pop up in the tablet. They will have a menu available to adjust their player model, equipment, dominant hand, etc. Now, place a wrist tracker onto their dominant hand. I would usually just use one tracker, and adjust hand dominance in the user settings after they joined a session.\n\nCalibrate the pistol to the wrist tracker by using one of the user drop down menus to enable pass-through mode.\nInstruct them to just aim at the wall, keeping the pistol sights aligned and level.\nIn another drop down menu, IF the wrist tracker and gun are on and working with a proper grip, you will be able to select the calibrate button.\nDone. Now turn off pass-through.\n\n\n\nStarting a scenario\nNow, just select a scenario. They are all customizable as well.\n\nInstruct the participant to look around for a colored start area. The scenario description will show you the color and type of start area. They must stand in this box.\nYou have two options: if working with police who have holsters, or people with pockets, tell them to either holster the gun or pocket it. OR, hold onto the pistol for them until the scene starts. After the scene begins, hand them the gun.\n\n\n\n\n\n\n\nImportant\n\n\n\nIf you hold the gun while the scene loads, it will not populate in your hand correctly when the scene begins. If there is an issue immediately after loading with the gun not appearing, just instruct them to re-grip the gun.\n\n\n\nLaunch the scene.\n\n\n\nControlling the scenario\nYou can control NPC actions through a radial menu by selecting characters, this also works for players as well.\nWhen ending the scenario, you will be asked to save the after-action review or not.",
     "crumbs": [
       "Ring Resources",
       "Training Materials",
       "Operator XR Virtual Reality"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html",
+    "href": "training_tobii.html",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "",
+    "text": "Tobii Pro Glasses 3",
+    "crumbs": [
+      "Ring Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html#pre-setup",
+    "href": "training_tobii.html#pre-setup",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "Pre-setup",
+    "text": "Pre-setup\n\nMake sure you have charged the batteries.\nMake sure you have empty SD cards available for a new project.",
+    "crumbs": [
+      "Ring Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html#video",
+    "href": "training_tobii.html#video",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "Video",
+    "text": "Video\n\n\n\n\n\n\nNoteTobii Quick Start Video",
+    "crumbs": [
+      "Ring Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html#powering-the-glasses-on",
+    "href": "training_tobii.html#powering-the-glasses-on",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "Powering the glasses on",
+    "text": "Powering the glasses on\nThis is what I do first, so that the signal can start broadcasting.\n\nInsert a battery into the recording unit.\nHold a finger over the power button until it lights up green.\nPlug in glasses",
+    "crumbs": [
+      "Ring Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
+    ]
+  },
+  {
+    "objectID": "training_tobii.html#get-the-tablet",
+    "href": "training_tobii.html#get-the-tablet",
+    "title": "Tobii Vision Tracking Glasses",
+    "section": "Get the tablet",
+    "text": "Get the tablet\n\nLog into tablet.\nLaunch Glasses 3 Controller app.\nIt should auto connect to the glasses name. If it doesn’t, you can find the signal from the glasses in the same menu as Wi-Fi connections.",
+    "crumbs": [
+      "Ring Resources",
+      "Training Materials",
+      "Tobii Vision Tracking Glasses"
     ]
   }
 ]
